@@ -1,0 +1,1 @@
+# Realtime-OCR-Text-Copier
